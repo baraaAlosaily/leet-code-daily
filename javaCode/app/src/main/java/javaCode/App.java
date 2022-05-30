@@ -9,12 +9,15 @@ import java.util.stream.Collectors;
 public class App {
 
     public static void main(String[] args) {
-        int[][]matrix = {{1,5,9},{10,11},{12,13,15}};
-        int k = 6;
-        kthSmallest(matrix,k);
+//        int[][]matrix = {{1,5,9},{10,11},{12,13,15}};
+//        int k = 6;
+//        kthSmallest(matrix,k);
+//
+//        int[]arr={1,2,3};
+//        subsets(arr);
 
-        int[]arr={1,2,3};
-        subsets(arr);
+    }
+    static public List<String> findAllConcatenatedWordsInADict(String[] words) {
 
     }
 
